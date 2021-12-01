@@ -1,6 +1,6 @@
 const integerDifference = require("./integerDifference");
 
-describe("firstGreater", () => {
+describe("integerDifference", () => {
   it("should find 3 differences with 4 value", () => {
     const enterData = [1, 1, 5, 6, 9, 16, 27];
 
